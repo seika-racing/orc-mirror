@@ -21,7 +21,7 @@ analysing past races against the polar valid on race day.
 Speeds are **knots** (ORC allowances are s/NM; `kn = 3600 / allowance`).
 `speedMatrix[i][j]` is boat speed at `windSpeeds[i]` and `angles[j]`.
 
-Base URL: `https://seika-racing.github.io/orc-mirror/`
+Base URL: `https://seika.racing/orc-mirror/` (GitHub Pages on the org custom domain; `seika-racing.github.io/orc-mirror/` redirects)
 
 ## Run locally
 
